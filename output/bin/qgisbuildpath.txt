@@ -1,0 +1,2 @@
+/home/danilo/dev/cpp/QGIS
+/home/danilo/dev/cpp/QGIS/output

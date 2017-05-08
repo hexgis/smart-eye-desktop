@@ -1,0 +1,42 @@
+file(REMOVE_RECURSE
+  "moc_qgswfscapabilities.cpp"
+  "moc_qgswfsdataitems.cpp"
+  "moc_qgswfsprovider.cpp"
+  "moc_qgswfsfeatureiterator.cpp"
+  "moc_qgswfssourceselect.cpp"
+  "moc_qgswfsrequest.cpp"
+  "moc_qgswfsdescribefeaturetype.cpp"
+  "moc_qgswfstransactionrequest.cpp"
+  "moc_qgswfsshareddata.cpp"
+  "moc_qgswfsutils.cpp"
+  "CMakeFiles/wfsprovider.dir/qgswfsprovider.cpp.o"
+  "CMakeFiles/wfsprovider.dir/qgswfscapabilities.cpp.o"
+  "CMakeFiles/wfsprovider.dir/qgswfsdataitems.cpp.o"
+  "CMakeFiles/wfsprovider.dir/qgswfsfeatureiterator.cpp.o"
+  "CMakeFiles/wfsprovider.dir/qgswfssourceselect.cpp.o"
+  "CMakeFiles/wfsprovider.dir/qgswfsrequest.cpp.o"
+  "CMakeFiles/wfsprovider.dir/qgswfsconnection.cpp.o"
+  "CMakeFiles/wfsprovider.dir/qgswfsdatasourceuri.cpp.o"
+  "CMakeFiles/wfsprovider.dir/qgswfsconstants.cpp.o"
+  "CMakeFiles/wfsprovider.dir/qgswfsdescribefeaturetype.cpp.o"
+  "CMakeFiles/wfsprovider.dir/qgswfsshareddata.cpp.o"
+  "CMakeFiles/wfsprovider.dir/qgswfstransactionrequest.cpp.o"
+  "CMakeFiles/wfsprovider.dir/qgswfsutils.cpp.o"
+  "CMakeFiles/wfsprovider.dir/moc_qgswfscapabilities.cpp.o"
+  "CMakeFiles/wfsprovider.dir/moc_qgswfsdataitems.cpp.o"
+  "CMakeFiles/wfsprovider.dir/moc_qgswfsprovider.cpp.o"
+  "CMakeFiles/wfsprovider.dir/moc_qgswfsfeatureiterator.cpp.o"
+  "CMakeFiles/wfsprovider.dir/moc_qgswfssourceselect.cpp.o"
+  "CMakeFiles/wfsprovider.dir/moc_qgswfsrequest.cpp.o"
+  "CMakeFiles/wfsprovider.dir/moc_qgswfsdescribefeaturetype.cpp.o"
+  "CMakeFiles/wfsprovider.dir/moc_qgswfstransactionrequest.cpp.o"
+  "CMakeFiles/wfsprovider.dir/moc_qgswfsshareddata.cpp.o"
+  "CMakeFiles/wfsprovider.dir/moc_qgswfsutils.cpp.o"
+  "../../../output/lib/qgis/plugins/libwfsprovider.pdb"
+  "../../../output/lib/qgis/plugins/libwfsprovider.so"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/wfsprovider.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

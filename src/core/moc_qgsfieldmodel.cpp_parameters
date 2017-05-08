@@ -1,0 +1,10 @@
+-I/home/danilo/dev/cpp/QGIS
+-DWITH_BINDINGS
+-DWITH_QTWEBKIT
+-DQT_DISABLE_DEPRECATED_BEFORE=0
+-DENABLE_TESTS
+-DQT_NO_CAST_TO_ASCII
+-D_TTY_POSIX_
+-o
+/home/danilo/dev/cpp/QGIS/src/core/moc_qgsfieldmodel.cpp
+/home/danilo/dev/cpp/QGIS/src/core/qgsfieldmodel.h

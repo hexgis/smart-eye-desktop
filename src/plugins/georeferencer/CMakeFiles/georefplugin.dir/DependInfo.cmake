@@ -1,0 +1,116 @@
+# The set of languages for which implicit dependencies are needed:
+set(CMAKE_DEPENDS_LANGUAGES
+  "CXX"
+  )
+# The set of files for implicit dependencies of each language:
+set(CMAKE_DEPENDS_CHECK_CXX
+  "/home/danilo/dev/cpp/QGIS/src/plugins/georeferencer/moc_qgsgcplistmodel.cpp" "/home/danilo/dev/cpp/QGIS/src/plugins/georeferencer/CMakeFiles/georefplugin.dir/moc_qgsgcplistmodel.cpp.o"
+  "/home/danilo/dev/cpp/QGIS/src/plugins/georeferencer/moc_qgsgcplistwidget.cpp" "/home/danilo/dev/cpp/QGIS/src/plugins/georeferencer/CMakeFiles/georefplugin.dir/moc_qgsgcplistwidget.cpp.o"
+  "/home/danilo/dev/cpp/QGIS/src/plugins/georeferencer/moc_qgsgeorefconfigdialog.cpp" "/home/danilo/dev/cpp/QGIS/src/plugins/georeferencer/CMakeFiles/georefplugin.dir/moc_qgsgeorefconfigdialog.cpp.o"
+  "/home/danilo/dev/cpp/QGIS/src/plugins/georeferencer/moc_qgsgeorefdatapoint.cpp" "/home/danilo/dev/cpp/QGIS/src/plugins/georeferencer/CMakeFiles/georefplugin.dir/moc_qgsgeorefdatapoint.cpp.o"
+  "/home/danilo/dev/cpp/QGIS/src/plugins/georeferencer/moc_qgsgeorefdelegates.cpp" "/home/danilo/dev/cpp/QGIS/src/plugins/georeferencer/CMakeFiles/georefplugin.dir/moc_qgsgeorefdelegates.cpp.o"
+  "/home/danilo/dev/cpp/QGIS/src/plugins/georeferencer/moc_qgsgeorefdescriptiondialog.cpp" "/home/danilo/dev/cpp/QGIS/src/plugins/georeferencer/CMakeFiles/georefplugin.dir/moc_qgsgeorefdescriptiondialog.cpp.o"
+  "/home/danilo/dev/cpp/QGIS/src/plugins/georeferencer/moc_qgsgeorefplugin.cpp" "/home/danilo/dev/cpp/QGIS/src/plugins/georeferencer/CMakeFiles/georefplugin.dir/moc_qgsgeorefplugin.cpp.o"
+  "/home/danilo/dev/cpp/QGIS/src/plugins/georeferencer/moc_qgsgeorefplugingui.cpp" "/home/danilo/dev/cpp/QGIS/src/plugins/georeferencer/CMakeFiles/georefplugin.dir/moc_qgsgeorefplugingui.cpp.o"
+  "/home/danilo/dev/cpp/QGIS/src/plugins/georeferencer/moc_qgsgeoreftooladdpoint.cpp" "/home/danilo/dev/cpp/QGIS/src/plugins/georeferencer/CMakeFiles/georefplugin.dir/moc_qgsgeoreftooladdpoint.cpp.o"
+  "/home/danilo/dev/cpp/QGIS/src/plugins/georeferencer/moc_qgsgeoreftooldeletepoint.cpp" "/home/danilo/dev/cpp/QGIS/src/plugins/georeferencer/CMakeFiles/georefplugin.dir/moc_qgsgeoreftooldeletepoint.cpp.o"
+  "/home/danilo/dev/cpp/QGIS/src/plugins/georeferencer/moc_qgsgeoreftoolmovepoint.cpp" "/home/danilo/dev/cpp/QGIS/src/plugins/georeferencer/CMakeFiles/georefplugin.dir/moc_qgsgeoreftoolmovepoint.cpp.o"
+  "/home/danilo/dev/cpp/QGIS/src/plugins/georeferencer/moc_qgsgeorefvalidators.cpp" "/home/danilo/dev/cpp/QGIS/src/plugins/georeferencer/CMakeFiles/georefplugin.dir/moc_qgsgeorefvalidators.cpp.o"
+  "/home/danilo/dev/cpp/QGIS/src/plugins/georeferencer/moc_qgsmapcoordsdialog.cpp" "/home/danilo/dev/cpp/QGIS/src/plugins/georeferencer/CMakeFiles/georefplugin.dir/moc_qgsmapcoordsdialog.cpp.o"
+  "/home/danilo/dev/cpp/QGIS/src/plugins/georeferencer/moc_qgsresidualplotitem.cpp" "/home/danilo/dev/cpp/QGIS/src/plugins/georeferencer/CMakeFiles/georefplugin.dir/moc_qgsresidualplotitem.cpp.o"
+  "/home/danilo/dev/cpp/QGIS/src/plugins/georeferencer/moc_qgstransformsettingsdialog.cpp" "/home/danilo/dev/cpp/QGIS/src/plugins/georeferencer/CMakeFiles/georefplugin.dir/moc_qgstransformsettingsdialog.cpp.o"
+  "/home/danilo/dev/cpp/QGIS/src/plugins/georeferencer/moc_qgsvalidateddoublespinbox.cpp" "/home/danilo/dev/cpp/QGIS/src/plugins/georeferencer/CMakeFiles/georefplugin.dir/moc_qgsvalidateddoublespinbox.cpp.o"
+  "/home/danilo/dev/cpp/QGIS/src/plugins/georeferencer/qgsgcpcanvasitem.cpp" "/home/danilo/dev/cpp/QGIS/src/plugins/georeferencer/CMakeFiles/georefplugin.dir/qgsgcpcanvasitem.cpp.o"
+  "/home/danilo/dev/cpp/QGIS/src/plugins/georeferencer/qgsgcplist.cpp" "/home/danilo/dev/cpp/QGIS/src/plugins/georeferencer/CMakeFiles/georefplugin.dir/qgsgcplist.cpp.o"
+  "/home/danilo/dev/cpp/QGIS/src/plugins/georeferencer/qgsgcplistmodel.cpp" "/home/danilo/dev/cpp/QGIS/src/plugins/georeferencer/CMakeFiles/georefplugin.dir/qgsgcplistmodel.cpp.o"
+  "/home/danilo/dev/cpp/QGIS/src/plugins/georeferencer/qgsgcplistwidget.cpp" "/home/danilo/dev/cpp/QGIS/src/plugins/georeferencer/CMakeFiles/georefplugin.dir/qgsgcplistwidget.cpp.o"
+  "/home/danilo/dev/cpp/QGIS/src/plugins/georeferencer/qgsgeorefconfigdialog.cpp" "/home/danilo/dev/cpp/QGIS/src/plugins/georeferencer/CMakeFiles/georefplugin.dir/qgsgeorefconfigdialog.cpp.o"
+  "/home/danilo/dev/cpp/QGIS/src/plugins/georeferencer/qgsgeorefdatapoint.cpp" "/home/danilo/dev/cpp/QGIS/src/plugins/georeferencer/CMakeFiles/georefplugin.dir/qgsgeorefdatapoint.cpp.o"
+  "/home/danilo/dev/cpp/QGIS/src/plugins/georeferencer/qgsgeorefdelegates.cpp" "/home/danilo/dev/cpp/QGIS/src/plugins/georeferencer/CMakeFiles/georefplugin.dir/qgsgeorefdelegates.cpp.o"
+  "/home/danilo/dev/cpp/QGIS/src/plugins/georeferencer/qgsgeorefdescriptiondialog.cpp" "/home/danilo/dev/cpp/QGIS/src/plugins/georeferencer/CMakeFiles/georefplugin.dir/qgsgeorefdescriptiondialog.cpp.o"
+  "/home/danilo/dev/cpp/QGIS/src/plugins/georeferencer/qgsgeorefplugin.cpp" "/home/danilo/dev/cpp/QGIS/src/plugins/georeferencer/CMakeFiles/georefplugin.dir/qgsgeorefplugin.cpp.o"
+  "/home/danilo/dev/cpp/QGIS/src/plugins/georeferencer/qgsgeorefplugingui.cpp" "/home/danilo/dev/cpp/QGIS/src/plugins/georeferencer/CMakeFiles/georefplugin.dir/qgsgeorefplugingui.cpp.o"
+  "/home/danilo/dev/cpp/QGIS/src/plugins/georeferencer/qgsgeoreftooladdpoint.cpp" "/home/danilo/dev/cpp/QGIS/src/plugins/georeferencer/CMakeFiles/georefplugin.dir/qgsgeoreftooladdpoint.cpp.o"
+  "/home/danilo/dev/cpp/QGIS/src/plugins/georeferencer/qgsgeoreftooldeletepoint.cpp" "/home/danilo/dev/cpp/QGIS/src/plugins/georeferencer/CMakeFiles/georefplugin.dir/qgsgeoreftooldeletepoint.cpp.o"
+  "/home/danilo/dev/cpp/QGIS/src/plugins/georeferencer/qgsgeoreftoolmovepoint.cpp" "/home/danilo/dev/cpp/QGIS/src/plugins/georeferencer/CMakeFiles/georefplugin.dir/qgsgeoreftoolmovepoint.cpp.o"
+  "/home/danilo/dev/cpp/QGIS/src/plugins/georeferencer/qgsgeoreftransform.cpp" "/home/danilo/dev/cpp/QGIS/src/plugins/georeferencer/CMakeFiles/georefplugin.dir/qgsgeoreftransform.cpp.o"
+  "/home/danilo/dev/cpp/QGIS/src/plugins/georeferencer/qgsgeorefvalidators.cpp" "/home/danilo/dev/cpp/QGIS/src/plugins/georeferencer/CMakeFiles/georefplugin.dir/qgsgeorefvalidators.cpp.o"
+  "/home/danilo/dev/cpp/QGIS/src/plugins/georeferencer/qgsimagewarper.cpp" "/home/danilo/dev/cpp/QGIS/src/plugins/georeferencer/CMakeFiles/georefplugin.dir/qgsimagewarper.cpp.o"
+  "/home/danilo/dev/cpp/QGIS/src/plugins/georeferencer/qgsleastsquares.cpp" "/home/danilo/dev/cpp/QGIS/src/plugins/georeferencer/CMakeFiles/georefplugin.dir/qgsleastsquares.cpp.o"
+  "/home/danilo/dev/cpp/QGIS/src/plugins/georeferencer/qgsmapcoordsdialog.cpp" "/home/danilo/dev/cpp/QGIS/src/plugins/georeferencer/CMakeFiles/georefplugin.dir/qgsmapcoordsdialog.cpp.o"
+  "/home/danilo/dev/cpp/QGIS/src/plugins/georeferencer/qgsrasterchangecoords.cpp" "/home/danilo/dev/cpp/QGIS/src/plugins/georeferencer/CMakeFiles/georefplugin.dir/qgsrasterchangecoords.cpp.o"
+  "/home/danilo/dev/cpp/QGIS/src/plugins/georeferencer/qgsresidualplotitem.cpp" "/home/danilo/dev/cpp/QGIS/src/plugins/georeferencer/CMakeFiles/georefplugin.dir/qgsresidualplotitem.cpp.o"
+  "/home/danilo/dev/cpp/QGIS/src/plugins/georeferencer/qgstransformsettingsdialog.cpp" "/home/danilo/dev/cpp/QGIS/src/plugins/georeferencer/CMakeFiles/georefplugin.dir/qgstransformsettingsdialog.cpp.o"
+  "/home/danilo/dev/cpp/QGIS/src/plugins/georeferencer/qrc_georeferencer.cpp" "/home/danilo/dev/cpp/QGIS/src/plugins/georeferencer/CMakeFiles/georefplugin.dir/qrc_georeferencer.cpp.o"
+  )
+set(CMAKE_CXX_COMPILER_ID "GNU")
+
+# Preprocessor definitions for this target.
+set(CMAKE_TARGET_DEFINITIONS_CXX
+  "ENABLE_TESTS"
+  "QT_CONCURRENT_LIB"
+  "QT_CORE_LIB"
+  "QT_DISABLE_DEPRECATED_BEFORE=0"
+  "QT_GUI_LIB"
+  "QT_NETWORK_LIB"
+  "QT_NO_CAST_TO_ASCII"
+  "QT_NO_DEBUG"
+  "QT_POSITIONING_LIB"
+  "QT_PRINTSUPPORT_LIB"
+  "QT_SQL_LIB"
+  "QT_SVG_LIB"
+  "QT_UIPLUGIN_LIB"
+  "QT_UITOOLS_LIB"
+  "QT_WEBKITWIDGETS_LIB"
+  "QT_WEBKIT_LIB"
+  "QT_WIDGETS_LIB"
+  "QT_XML_LIB"
+  "WITH_BINDINGS"
+  "WITH_QTWEBKIT"
+  )
+
+# The include file search paths:
+set(CMAKE_CXX_TARGET_INCLUDE_PATH
+  "."
+  "src/plugins/georeferencer"
+  "src/plugins/georeferencer/../../ui"
+  "src/plugins/georeferencer/../../core"
+  "src/plugins/georeferencer/../../core/geometry"
+  "src/plugins/georeferencer/../../core/metadata"
+  "src/plugins/georeferencer/../../core/raster"
+  "src/plugins/georeferencer/../../core/composer"
+  "src/plugins/georeferencer/../../gui"
+  "src/plugins/georeferencer/../../gui/editorwidgets"
+  "src/plugins/georeferencer/../../gui/layertree"
+  "src/plugins/georeferencer/.."
+  "src/core"
+  "src/gui"
+  "src/app"
+  "src/plugins/georeferencer/include/qgis"
+  "/usr/include/qwt"
+  "/usr/include/x86_64-linux-gnu/qt5"
+  "/usr/include/x86_64-linux-gnu/qt5/QtXml"
+  "/usr/include/x86_64-linux-gnu/qt5/QtCore"
+  "/usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++-64"
+  "/usr/include/x86_64-linux-gnu/qt5/QtConcurrent"
+  "/usr/include/x86_64-linux-gnu/qt5/QtGui"
+  "/usr/include/x86_64-linux-gnu/qt5/QtWidgets"
+  "/usr/include/x86_64-linux-gnu/qt5/QtPrintSupport"
+  "/usr/include/x86_64-linux-gnu/qt5/QtSvg"
+  "/usr/include/x86_64-linux-gnu/qt5/QtNetwork"
+  "/usr/include/x86_64-linux-gnu/qt5/QtWebKit"
+  "/usr/include/x86_64-linux-gnu/qt5/QtWebKitWidgets"
+  "/usr/include/x86_64-linux-gnu/qt5/QtSql"
+  "/usr/include/x86_64-linux-gnu/qt5/QtPositioning"
+  "/usr/include/x86_64-linux-gnu/qt5/QtUiTools"
+  "/usr/include/x86_64-linux-gnu/qt5/QtUiPlugin"
+  )
+
+# Targets to which this target links.
+set(CMAKE_TARGET_LINKED_INFO_FILES
+  "/home/danilo/dev/cpp/QGIS/src/gui/CMakeFiles/qgis_gui.dir/DependInfo.cmake"
+  "/home/danilo/dev/cpp/QGIS/src/core/CMakeFiles/qgis_core.dir/DependInfo.cmake"
+  )
+
+# Fortran module output directory.
+set(CMAKE_Fortran_TARGET_MODULE_DIR "")

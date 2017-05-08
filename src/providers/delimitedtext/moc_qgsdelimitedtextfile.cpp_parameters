@@ -1,0 +1,17 @@
+-I/home/danilo/dev/cpp/QGIS
+-I/home/danilo/dev/cpp/QGIS/src/providers/delimitedtext/../../core
+-I/home/danilo/dev/cpp/QGIS/src/providers/delimitedtext/../../core/geometry
+-I/home/danilo/dev/cpp/QGIS/src/providers/delimitedtext/../../core/metadata
+-I/home/danilo/dev/cpp/QGIS/src/providers/delimitedtext/../../gui
+-I/home/danilo/dev/cpp/QGIS/src/core
+-I/home/danilo/dev/cpp/QGIS/src/gui
+-I/usr/include
+-I/home/danilo/dev/cpp/QGIS/src/providers/delimitedtext/../../ui
+-DWITH_BINDINGS
+-DWITH_QTWEBKIT
+-DQT_DISABLE_DEPRECATED_BEFORE=0
+-DENABLE_TESTS
+-DQT_NO_CAST_TO_ASCII
+-o
+/home/danilo/dev/cpp/QGIS/src/providers/delimitedtext/moc_qgsdelimitedtextfile.cpp
+/home/danilo/dev/cpp/QGIS/src/providers/delimitedtext/qgsdelimitedtextfile.h

@@ -1,0 +1,9 @@
+-I/home/danilo/dev/cpp/QGIS
+-DWITH_BINDINGS
+-DWITH_QTWEBKIT
+-DQT_DISABLE_DEPRECATED_BEFORE=0
+-DENABLE_TESTS
+-DQT_NO_CAST_TO_ASCII
+-o
+/home/danilo/dev/cpp/QGIS/src/gui/moc_qgscheckablecombobox.cpp
+/home/danilo/dev/cpp/QGIS/src/gui/qgscheckablecombobox.h
