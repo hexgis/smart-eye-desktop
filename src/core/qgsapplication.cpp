@@ -99,7 +99,7 @@ QString QgsApplication::sUserFullName;
 QString QgsApplication::sPlatformName = QStringLiteral( "desktop" );
 
 const char *QgsApplication::QGIS_ORGANIZATION_NAME = "HEX Tecnologias Geoespaciais";
-const char *QgsApplication::QGIS_ORGANIZATION_DOMAIN = "hesgis.com";
+const char *QgsApplication::QGIS_ORGANIZATION_DOMAIN = "hexgis.com";
 const char *QgsApplication::QGIS_APPLICATION_NAME = "Smart Eye";
 
 QgsApplication::ApplicationMembers *QgsApplication::sApplicationMembers = nullptr;
