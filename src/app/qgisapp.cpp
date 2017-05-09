@@ -429,6 +429,8 @@ static void setTitleBarText_( QWidget &qgisApp )
     caption += QStringLiteral( " %1" ).arg( Qgis::QGIS_DEV_VERSION );
   }
 
+  caption = QStringLiteral( "Smart Eye" );
+
   qgisApp.setWindowTitle( caption );
 }
 

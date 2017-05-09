@@ -98,9 +98,9 @@ QString QgsApplication::sUserName;
 QString QgsApplication::sUserFullName;
 QString QgsApplication::sPlatformName = QStringLiteral( "desktop" );
 
-const char *QgsApplication::QGIS_ORGANIZATION_NAME = "QGIS";
-const char *QgsApplication::QGIS_ORGANIZATION_DOMAIN = "qgis.org";
-const char *QgsApplication::QGIS_APPLICATION_NAME = "QGIS3";
+const char *QgsApplication::QGIS_ORGANIZATION_NAME = "HEX Tecnologias Geoespaciais";
+const char *QgsApplication::QGIS_ORGANIZATION_DOMAIN = "hesgis.com";
+const char *QgsApplication::QGIS_APPLICATION_NAME = "Smart Eye";
 
 QgsApplication::ApplicationMembers *QgsApplication::sApplicationMembers = nullptr;
 
